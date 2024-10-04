@@ -1,4 +1,4 @@
-_04_10_2024_
+
 li=[]
 n=int(input("Enter size of list "))
 for i in range(0,n):
