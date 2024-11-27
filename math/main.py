@@ -1,5 +1,5 @@
-from basic_operations import arithmatic //file should be same
-from geomatric_operations import area //file should be same
+from basic_operations import arithmatic #file should me same
+from geomatric_operations import area #file should me same
 
 print("Arithmetic Operations")
 print("5 + 3 =",arithmatic.add(5,3))
